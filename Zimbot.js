@@ -6632,8 +6632,28 @@ case 'تخ': case 'قتل':{
   const killlidoo = [
     "https://telegra.ph/file/457f59380b347f01faf6c.mp4",
     "https://telegra.ph/file/f460416fff8c2ca884dfe.mp4",
+    "https://telegra.ph/file/d210ec1fc6aa98305ddbe.mp4",
+    "https://telegra.ph/file/de2e28b197fa971b799db.mp4",
+    "https://telegra.ph/file/457f59380b347f01faf6c.mp4",
     "https://telegra.ph/file/f460416fff8c2ca884dfe.mp4",
-    "https://telegra.ph/file/457f59380b347f01faf6c.mp4"
+    "https://telegra.ph/file/d210ec1fc6aa98305ddbe.mp4",
+    "https://telegra.ph/file/de2e28b197fa971b799db.mp4",
+    "https://telegra.ph/file/457f59380b347f01faf6c.mp4",
+    "https://telegra.ph/file/f460416fff8c2ca884dfe.mp4",
+    "https://telegra.ph/file/d210ec1fc6aa98305ddbe.mp4",
+    "https://telegra.ph/file/de2e28b197fa971b799db.mp4",
+    "https://telegra.ph/file/457f59380b347f01faf6c.mp4",
+    "https://telegra.ph/file/f460416fff8c2ca884dfe.mp4",
+    "https://telegra.ph/file/d210ec1fc6aa98305ddbe.mp4",
+    "https://telegra.ph/file/de2e28b197fa971b799db.mp4",
+    "https://telegra.ph/file/457f59380b347f01faf6c.mp4",
+    "https://telegra.ph/file/f460416fff8c2ca884dfe.mp4",
+    "https://telegra.ph/file/d210ec1fc6aa98305ddbe.mp4",
+    "https://telegra.ph/file/de2e28b197fa971b799db.mp4",
+    "https://telegra.ph/file/457f59380b347f01faf6c.mp4",
+    "https://telegra.ph/file/f460416fff8c2ca884dfe.mp4",
+    "https://telegra.ph/file/d210ec1fc6aa98305ddbe.mp4",
+    "https://telegra.ph/file/de2e28b197fa971b799db.mp4"
     ]
   let buttons = [			
     { buttonId: 'owner', buttonText: { displayText: 'المطور 😍❤️' }, type: 1 }	
@@ -6672,10 +6692,36 @@ break
 case 'تفف': case 'تف':{
   if (!m.isGroup) return replay(mess.group)	
   const killlido = [
-    "https://telegra.ph/file/6c8c55986035538172fd0.mp4",
-    "https://telegra.ph/file/6c8c55986035538172fd0.mp4",
-    "https://telegra.ph/file/6c8c55986035538172fd0.mp4",
-    "https://telegra.ph/file/6c8c55986035538172fd0.mp4"
+    "https://telegra.ph/file/1cb54d675db29db010f20.mp4",
+    "https://telegra.ph/file/74c8aa54d1a349d135747.mp4",
+    "https://telegra.ph/file/a146a4c1af5c70b045575.mp4",
+    "https://telegra.ph/file/74dd2dbeec2bc1a84e35a.mp4",
+    "https://telegra.ph/file/f2bdcceac5fa71dc24664.mp4",
+    "https://telegra.ph/file/46c2891da7ae73eeb56be.mp4",
+    "https://telegra.ph/file/1cb54d675db29db010f20.mp4",
+    "https://telegra.ph/file/74c8aa54d1a349d135747.mp4",
+    "https://telegra.ph/file/a146a4c1af5c70b045575.mp4",
+    "https://telegra.ph/file/74dd2dbeec2bc1a84e35a.mp4",
+    "https://telegra.ph/file/f2bdcceac5fa71dc24664.mp4",
+    "https://telegra.ph/file/46c2891da7ae73eeb56be.mp4",
+    "https://telegra.ph/file/1cb54d675db29db010f20.mp4",
+    "https://telegra.ph/file/74c8aa54d1a349d135747.mp4",
+    "https://telegra.ph/file/a146a4c1af5c70b045575.mp4",
+    "https://telegra.ph/file/74dd2dbeec2bc1a84e35a.mp4",
+    "https://telegra.ph/file/f2bdcceac5fa71dc24664.mp4",
+    "https://telegra.ph/file/46c2891da7ae73eeb56be.mp4",
+    "https://telegra.ph/file/1cb54d675db29db010f20.mp4",
+    "https://telegra.ph/file/74c8aa54d1a349d135747.mp4",
+    "https://telegra.ph/file/a146a4c1af5c70b045575.mp4",
+    "https://telegra.ph/file/74dd2dbeec2bc1a84e35a.mp4",
+    "https://telegra.ph/file/f2bdcceac5fa71dc24664.mp4",
+    "https://telegra.ph/file/46c2891da7ae73eeb56be.mp4",
+    "https://telegra.ph/file/1cb54d675db29db010f20.mp4",
+    "https://telegra.ph/file/74c8aa54d1a349d135747.mp4",
+    "https://telegra.ph/file/a146a4c1af5c70b045575.mp4",
+    "https://telegra.ph/file/74dd2dbeec2bc1a84e35a.mp4",
+    "https://telegra.ph/file/f2bdcceac5fa71dc24664.mp4",
+    "https://telegra.ph/file/46c2891da7ae73eeb56be.mp4"
     ]
   let buttons = [			
     { buttonId: 'owner', buttonText: { displayText: 'المطور 😍❤️' }, type: 1 }		
@@ -6714,10 +6760,21 @@ break
 case 'محح': case 'مح':{
   if (!m.isGroup) return replay(mess.group)	
   const killlido = [
-    "https://telegra.ph/file/6c8c55986035538172fd0.mp4",
-    "https://telegra.ph/file/6c8c55986035538172fd0.mp4",
-    "https://telegra.ph/file/6c8c55986035538172fd0.mp4",
-    "https://telegra.ph/file/6c8c55986035538172fd0.mp4"
+    "https://telegra.ph/file/0e70e9dcb629021ca6c5f.mp4",
+    "https://telegra.ph/file/af9cfe37709af76500d33.mp4",
+    "https://telegra.ph/file/9e983bc8c19b65f5d76b7.mp4",
+    "https://telegra.ph/file/0e70e9dcb629021ca6c5f.mp4",
+    "https://telegra.ph/file/af9cfe37709af76500d33.mp4",
+    "https://telegra.ph/file/9e983bc8c19b65f5d76b7.mp4",
+    "https://telegra.ph/file/0e70e9dcb629021ca6c5f.mp4",
+    "https://telegra.ph/file/af9cfe37709af76500d33.mp4",
+    "https://telegra.ph/file/9e983bc8c19b65f5d76b7.mp4",
+    "https://telegra.ph/file/0e70e9dcb629021ca6c5f.mp4",
+    "https://telegra.ph/file/af9cfe37709af76500d33.mp4",
+    "https://telegra.ph/file/9e983bc8c19b65f5d76b7.mp4",
+    "https://telegra.ph/file/0e70e9dcb629021ca6c5f.mp4",
+    "https://telegra.ph/file/af9cfe37709af76500d33.mp4",
+    "https://telegra.ph/file/9e983bc8c19b65f5d76b7.mp4"
     ]
   let buttons = [			
     { buttonId: 'owner', buttonText: { displayText: 'المطور 😍❤️' }, type: 1 }		
@@ -6752,6 +6809,7 @@ console.log(error);
 }
 }
 break
+
 
 //----  تتجوزيني ----------------///
 
